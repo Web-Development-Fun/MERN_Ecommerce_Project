@@ -1,6 +1,6 @@
 # MERN E-COMMERCE Website
 
-Hi! My name is **Anil Patidar**, I have created this tutorial to teach MERN Stack for free.
+Hi! My name is **Anil Patidar**, I have created this Ecommerce website using MERN Stack .
 
 # Prerequisite
 
